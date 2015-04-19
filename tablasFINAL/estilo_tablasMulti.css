@@ -1,0 +1,25 @@
+﻿body {
+text-align: center;
+background: #19A319;
+}
+
+input {
+background: #19A319;
+}
+
+#contenedor {
+
+
+margin: auto;
+width: 60%;
+height: 85%;
+background:url('blackboard.png');
+background-repeat: no-repeat;
+font-weight: bold;
+color: white;
+}
+
+ul li {
+list-style: none;
+font-weight: bold;
+}
